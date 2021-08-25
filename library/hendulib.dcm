@@ -1,0 +1,411 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N5819
+D 40V 1A Schottky Barrier Rectifier Diode, SOD-123F
+K diode Schottky
+F http://www.diodes.com/_files/datasheets/ds23022.pdf
+$ENDCMP
+#
+$CMP 2N7000
+D 0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92
+K N-Channel MOSFET Logic-Level
+F https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF
+$ENDCMP
+#
+$CMP 50WQ04FN
+D 5.5A High Performance Schottky Rectifier, D-PAK
+K Schottky Rectifier, TO-252-AA
+$ENDCMP
+#
+$CMP AO3401A
+D -4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf
+$ENDCMP
+#
+$CMP AO4468
+D 10.5A Id, 30V Vds, N-Channel MOSFET, SOIC-8
+K Ideal for load switch and battery protection
+$ENDCMP
+#
+$CMP BAT54S
+D schottky barrier diode
+K schottky diode
+F https://www.diodes.com/assets/Datasheets/ds11005.pdf
+$ENDCMP
+#
+$CMP BSS83P
+D -0.33A Id, -60V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.farnell.com/datasheets/1835997.pdf
+$ENDCMP
+#
+$CMP BSS84
+D -0.13A Id, -50V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://assets.nexperia.com/documents/data-sheet/BSS84.pdf
+$ENDCMP
+#
+$CMP CJ125
+D Wideband Lambda Sensor Interface
+K LSU4.2 or LSU4.9 Wideband Lambda Probe
+$ENDCMP
+#
+$CMP DMG2301L
+D -3A Id, -20V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F https://www.diodes.com/assets/Datasheets/DMG2301L.pdf
+$ENDCMP
+#
+$CMP FDD6N50
+D 6A Id, 500V Vds, N-Channel MOSFET, OMNIFET II, DPAK
+K N-Channel MOSFET
+$ENDCMP
+#
+$CMP FDN340P
+D 2A Id, 20V Vds, P-Channel MOSFET, 70mOhm Ron, SOT-23
+K P-Channel MOSFET
+F https://www.onsemi.com/pub/Collateral/FDN340P-D.PDF
+$ENDCMP
+#
+$CMP FGD3440G2
+D Ignition IGBT, 26A, 400V, 335mJ, N-Channel IGBT, DPAK TO-252-2
+K N-Channel IGBT for Coil-on-Plug and Driver-on-Coil application
+$ENDCMP
+#
+$CMP GB10NB37L
+D Ignition IGBT, 10A, 410V, 300mJ, N-Channel IGBT, D2PAK TO-263AB
+K Automotive Ignition
+$ENDCMP
+#
+$CMP GS8634
+D 6MHz CMOS Rail-to-Rail IO Opamps, High gain bandwidth
+K Low Power Quad Opamps
+$ENDCMP
+#
+$CMP HC-05
+D Modul bluetooth untuk komunikasi nirkabel yang bisa di set sebagai master atau slave
+K Master Slave Bluetooth Module HC-05
+$ENDCMP
+#
+$CMP HEND-URL
+D QR Code Alamat URL Henduino
+K QR Code Alamat URL Henduino
+$ENDCMP
+#
+$CMP HIP9011
+D Engine Knock Detector Processor
+K Two Sensor Inputs, External Clock Frequencies up to 24MHz
+$ENDCMP
+#
+$CMP HLW8012
+D single phase energy monitor chip
+K energy monitoring
+$ENDCMP
+#
+$CMP IR4426
+D 1.5A Dual Low-Side Ultrafast MOSFET Drivers
+K Ignition COP Drivers
+$ENDCMP
+#
+$CMP IR4427
+D 1.5A Dual Low-Side Ultrafast MOSFET Drivers
+K Ignition COP Drivers
+$ENDCMP
+#
+$CMP IR4428
+D 1.5A Dual Low-Side Ultrafast MOSFET Drivers
+K Ignition COP Drivers
+$ENDCMP
+#
+$CMP IRF3710S
+D 57A Id, 100V Vds, N-Channel MOSFET, D2PAK - TO-263
+K N-Channel MOSFET
+$ENDCMP
+#
+$CMP IRGS14C40L
+D Ignition IGBT, 14A, 430V, N-Channel IGBT, D2PAK TO-263AB
+K N-Channel Ignition IGBT for Coil-on-Plug and Driver-on-Coil application
+$ENDCMP
+#
+$CMP IRLML5203
+D -3.0A Id, -30V Vds, 98mOhm Rds, P-Channel HEXFET Power MOSFET, SOT-23
+K P-Channel HEXFET MOSFET
+F https://www.infineon.com/dgdl/irlml5203pbf.pdf?fileId=5546d462533600a40153566868da261d
+$ENDCMP
+#
+$CMP IRLML6401
+D -4.3A Id, -12V Vds, 50mOhm Rds, P-Channel HEXFET Power MOSFET, SOT-23
+K P-Channel HEXFET MOSFET Logic-Level
+F https://www.infineon.com/dgdl/irlml6401pbf.pdf?fileId=5546d462533600a401535668b96d2634
+$ENDCMP
+#
+$CMP IRLML6402
+D -3.7A Id, -20V Vds, 65mOhm Rds, P-Channel HEXFET Power MOSFET, SOT-23
+K P-Channel HEXFET MOSFET
+F https://www.infineon.com/dgdl/irlml6402pbf.pdf?fileId=5546d462533600a401535668d5c2263c
+$ENDCMP
+#
+$CMP IRLML9301
+D -3.6A Id, -30V Vds, 64mOhm Rds, P-Channel HEXFET Power MOSFET, SOT-23
+K P-Channel HEXFET MOSFET Logic-Level
+F https://www.infineon.com/dgdl/irlml9301pbf.pdf?fileId=5546d462533600a401535668e5e42640
+$ENDCMP
+#
+$CMP IRLR2905
+D 42A Id, 55V Vds, 27mΩ Rds, N-Channel MOSFET, Logic Level, DPAK
+K N-Channel MOSFET
+$ENDCMP
+#
+$CMP ISL9V3040P3
+D Ignition IGBT, 21A, 400V, 300mJ, N-Channel IGBT, DPAK TO-252-2
+K N-Channel IGBT for Coil-on-Plug and Driver-on-Coil application
+$ENDCMP
+#
+$CMP ISL9V5036P3
+D Ignition IGBT, 31A, 360V, 500mJ, N-Channel IGBT, DPAK TO-252-2
+K N-Channel IGBT for Coil-on-Plug and Driver-on-Coil application
+$ENDCMP
+#
+$CMP IXDN502SI
+D 2A Dual Low-Side Ultrafast MOSFET Drivers
+K Ignition COP Drivers
+$ENDCMP
+#
+$CMP IXDN602SI
+D 2A Dual Low-Side Ultrafast MOSFET Drivers
+K Ignition COP Drivers
+$ENDCMP
+#
+$CMP MAX31855
+D Cold Junction K-type Termocouple Interface, SPI, SO8
+K Cold Junction Termocouple Interface SPI
+F http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+$ENDCMP
+#
+$CMP MAX9926
+D Variable-Reluctance Sensor Interface with Differential Input and Adaptive Peak Threshold
+K automotive, speed sensing, crankshaft, camshaft, transmission shaft
+F https://datasheets.maximintegrated.com/en/ds/MAX9924-MAX9927.pdf
+$ENDCMP
+#
+$CMP MAX9927
+D Variable-Reluctance Sensor Interface with Differential Input and Adaptive Peak Threshold
+K automotive, speed sensing, crankshaft, camshaft, transmission shaft
+F https://datasheets.maximintegrated.com/en/ds/MAX9924-MAX9927.pdf
+$ENDCMP
+#
+$CMP MCP2551
+D High-speed CAN Bus Transceiver
+K Implements ISO-11898-2 standard physical layer requirements
+$ENDCMP
+#
+$CMP MCP6004
+D 1MHz CMOS Rail-to-Rail IO Opamps, High gain bandwidth
+K Low Power Quad Opamps
+$ENDCMP
+#
+$CMP MGP20N40CL
+D Ignition IGBT, 20A, 400V, 550mJ, N-Channel IGBT, DPAK TO-252-2
+K N-Channel IGBT for Coil-on-Plug and Driver-on-Coil application
+$ENDCMP
+#
+$CMP MLD2N06CL
+D 2A Id, 60V Vds, 400mΩ Rds, Logic Level N-Channel MOSFET, DPAK
+K Automotive Application N-Channel MOSFET
+$ENDCMP
+#
+$CMP MPX4250
+D 20 to 250kPa, Manifold absolute pressure sensor, on-chip signal conditioned, temperature compensated and calibrated
+K MAP Sensor 36.26PSI (250kPa) for automotive
+F https://www.nxp.com/files-static/sensors/doc/data_sheet/MPX4250.pdf
+$ENDCMP
+#
+$CMP Mega2560_Pro_Shield
+D Shield for Arduino Mega 2560 Pro
+K RobotDyn Mega 2560 Pro
+$ENDCMP
+#
+$CMP NCV8402
+D 10A Id, 42V Vds, Self-protected low side driver with temperature and current limit, DPAK
+K Automotive Applications
+$ENDCMP
+#
+$CMP NCV8403
+D 15A Id, 42V Vds, Self-protected low side driver with temperature and current limit, DPAK
+K Automotive Applications
+$ENDCMP
+#
+$CMP NCV8408
+D 10A Id, 42V Vds, Self-protected low side driver with temperature and current limit, DPAK
+K Automotive Applications
+$ENDCMP
+#
+$CMP NGD8201
+D Ignition IGBT, 20A, 400V, 250mJ, N-Channel IGBT, DPAK TO-252-2
+K N-Channel IGBT for Coil-on-Plug and Driver-on-Coil application
+$ENDCMP
+#
+$CMP NTD24N06L
+D 24A Id, 60V Vds, 36mΩ Rds, N-Channel MOSFET, Logic Level, DPAK
+K N-Channel MOSFET
+$ENDCMP
+#
+$CMP NTR2101P
+D -3.7A Id, -8V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.onsemi.com/pub/Collateral/NTR2101P-D.PDF
+$ENDCMP
+#
+$CMP NUF2101M
+D USB Filter with ESD Protection
+F https://www.onsemi.com/pdf/datasheet/nuf2101m-d.pdf
+$ENDCMP
+#
+$CMP PN2907A
+D -0.6A Ic, -60V Vce, Small Signal PNP Transistor, TO-92
+K PNP Transistor
+F https://www.onsemi.com/pdf/datasheet/pn2907-d.pdf
+$ENDCMP
+#
+$CMP SI2300
+D 3.6A Id, 30V Vds, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET
+$ENDCMP
+#
+$CMP SN65HVD230
+D 3.3V, High-speed CAN Bus Transceiver
+K Implements ISO-11898-2 standard physical layer requirements
+$ENDCMP
+#
+$CMP SP720
+D 3pF 4kV Diode Array, ESD Protection
+K An array of SCR/Diode bipolar structures for ESD and over-voltage protection to sensitive input circuits
+$ENDCMP
+#
+$CMP SRV05-4
+D ESD Protection Diodes with Low Clamping Voltage, SOT-23-6
+K ESD protection diodes
+F https://www.st.com/resource/en/datasheet/usblc6-2.pdf
+$ENDCMP
+#
+$CMP STD24N06L
+D 24A Id, 60V Vds, 36mΩ Rds, N-Channel MOSFET, Logic Level, DPAK
+K N-Channel MOSFET
+$ENDCMP
+#
+$CMP STP62NS04Z
+D 62A Id, Clamped Vds, N-Channel MOSFET, MESH Overlay III, TO-220
+K Automotive Application, N-Channel MOSFET
+$ENDCMP
+#
+$CMP STP75NS04Z
+D 80A Id, Camped Vds, N-Channel MOSFET, MESH Overlay III, TO-220
+K Injector N-Channel MOSFET
+$ENDCMP
+#
+$CMP SUD40N06
+D 30A Id, 60V Vds, 53mΩ Rds, N-Channel MOSFET, Logic Level, DPAK
+K N-Channel MOSFET
+$ENDCMP
+#
+$CMP Si2319CDS
+D -4.4A Id, -40V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.vishay.com/docs/66709/si2319cd.pdf
+$ENDCMP
+#
+$CMP Si2371EDS
+D -3.6A Id, -30V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.vishay.com/docs/63924/si2371eds.pdf
+$ENDCMP
+#
+$CMP TC4423
+D 3A Dual Low-Side Ultrafast MOSFET Drivers
+K Ignition COP Drivers
+$ENDCMP
+#
+$CMP TC4424
+D 3A Dual Low-Side Ultrafast MOSFET Drivers
+K Ignition COP Drivers
+$ENDCMP
+#
+$CMP TC4425
+D 3A Dual Low-Side Ultrafast MOSFET Drivers
+K Ignition COP Drivers
+$ENDCMP
+#
+$CMP TC4426
+D 1.5A Dual Low-Side Ultrafast MOSFET Drivers
+K Ignition COP Drivers
+$ENDCMP
+#
+$CMP TC4427
+D 1.5A Dual Low-Side Ultrafast MOSFET Drivers
+K Ignition COP Drivers
+$ENDCMP
+#
+$CMP TC4428
+D 1.5A Dual Low-Side Ultrafast MOSFET Drivers
+K Ignition COP Drivers
+$ENDCMP
+#
+$CMP TJA1050
+D High-speed CAN Bus Transceiver
+K Implements ISO-11898-2 standard physical layer requirements
+$ENDCMP
+#
+$CMP TP0610T
+D -0.18A Id, -60V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.vishay.com/docs/70209/70209.pdf
+$ENDCMP
+#
+$CMP TPIC8101
+D Engine Knock Detector Processor
+K Two Sensor Inputs, External Clock Frequencies up to 24MHz
+$ENDCMP
+#
+$CMP TSM2301ACX
+D -2.8A Id, -20V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F https://www.taiwansemi.com/products/datasheet/TSM2301A_C15.pdf
+$ENDCMP
+#
+$CMP TinyWB
+D Oxygen Sensor Module, designed to be used with the Bosch LSU 4.9 sensor
+K Wideband oxygen sensor controller
+$ENDCMP
+#
+$CMP USBLC6-2
+F https://www.st.com/resource/en/datasheet/usblc6-2.pdf
+$ENDCMP
+#
+$CMP VND14NV04
+D 12A Id, 40V Vds, 35mΩ Rds, N-Channel MOSFET, OMNIFET II, DPAK
+K N-Channel MOSFET
+$ENDCMP
+#
+$CMP VND5N07
+D 5A Id, 70V Vds, 200mΩ Rds, N-Channel MOSFET, OMNIFET II, DPAK
+K N-Channel MOSFET
+$ENDCMP
+#
+$CMP VNLD5090
+D 25A, 41V, OMNIFET III fully protected low-side driver for automotive applications
+K Injector Drivers
+$ENDCMP
+#
+$CMP VNS14NV04
+D 12A Id, 40V Vds, 35mΩ Rds, N-Channel MOSFET, OMNIFET II, SOIC-8
+K Ideal for automotive injector
+$ENDCMP
+#
+$CMP VP0610T
+D -0.18A Id, -60V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.vishay.com/docs/70209/70209.pdf
+$ENDCMP
+#
+#End Doc Library
